@@ -26,5 +26,6 @@
     <string name="Duh">Only going to let you do this once!</string>
     <string name="ResetButton">Reset</string>
     <string name="emptyinboxlabel">No New Messages</string>
+    <string name="emptyfriendslabel">No Friends added yet</string>
 
 </resources>
