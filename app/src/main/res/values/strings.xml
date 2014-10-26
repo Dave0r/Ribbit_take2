@@ -25,5 +25,6 @@
     <string name="ForgotText">Forgot your Password?</string>
     <string name="Duh">Only going to let you do this once!</string>
     <string name="ResetButton">Reset</string>
+    <string name="emptyinboxlabel">No New Messages</string>
 
 </resources>

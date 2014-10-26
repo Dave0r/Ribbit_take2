@@ -3,6 +3,7 @@ package com.wonderdave.david.ribbit;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+
 import android.content.Context;
 import java.util.Locale;
 
@@ -22,7 +23,7 @@ public class SectionsPagerAdapter extends android.support.v13.app.FragmentPagerA
     public android.app.Fragment getItem(int position) {
         // getItem is called to instantiate the fragment for the given page.
         // Return a PlaceholderFragment (defined as a static inner class below).
-        return MainActivity.DummySectionFragment.newInstance(position + 1);
+        return new InboxFragment();
     }
 
     @Override
