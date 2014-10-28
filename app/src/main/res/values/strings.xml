@@ -27,5 +27,8 @@
     <string name="ResetButton">Reset</string>
     <string name="emptyinboxlabel">No New Messages</string>
     <string name="emptyfriendslabel">No Friends added yet</string>
+    <string name="edit_friends_menu">Add/Remove Friends</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="error_title">FFS!</string>
 
 </resources>
